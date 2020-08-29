@@ -1,0 +1,26 @@
+[
+	{
+		"id":-1,
+		"title":"",
+		"information":"",
+		"slug":"null"
+	},
+	{
+		"id":0,
+		"title":"something",
+		"information":"The one used by user ",
+		"slug":"Item_0"
+	},
+		{
+		"id":1,
+		"title":"something2",
+		"information":"The one used by user,too",
+		"slug":"Item_1"
+	},
+	{
+		"id":2,
+		"title":"something3",
+		"information":"It' a something.",
+		"slug":"Item_2"
+	}
+]

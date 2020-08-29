@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/test.unity
+    guid: 411c96a4749a8b04da70fc3cff195585
+  - enabled: 1
+    path: Assets/Scenes/kitchen.unity
+    guid: a92fc3551ca02b548971a8bb51d6aa22
+  - enabled: 1
+    path: Assets/Scenes/corridor.unity
+    guid: b4b8132f6ba0f6546bd8537f7b050c39
+  - enabled: 1
+    path: Assets/Scenes/room.unity
+    guid: 602a6d67754495443951040d72f920c3
+  - enabled: 1
+    path: Assets/Scenes/FU_outside.unity
+    guid: d0b06dd23d16ba741a171818ec840303
+  m_configObjects: {}
